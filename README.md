@@ -14,8 +14,8 @@ git clone https://github.com/Berdangvn/Kodluyoruzilkrepo.git
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
+Linux için;
 ```
-Linux için:
 cd kodluyoruzilkrepo
 code.
 ```
