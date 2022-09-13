@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo içerisindne bir adet READM
 Öncelikle projeyi clonelayın
 (buraya kendi repomuzdan aldığımız link gelecek)
 
-![Repo Görseli](/Kodluyoruzilkrepo/image/repo.png)
+![Repo Görseli](/https://github.com/Berdangvn/Kodluyoruzilkrepo/blob/main/image/repo.png)
 
 ```
 git clone https://github.com/Berdangvn/Kodluyoruzilkrepo.git
